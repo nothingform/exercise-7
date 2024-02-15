@@ -62,17 +62,17 @@ main{
 }
 
 .sidebar{
-    padding: 70px 10px;
+    padding: 70px 1px;
     background-color: orange;
 }
 
 .ads{
     background-color: green;
-    padding: 70px 10px;
+    padding: 70px 1px;
 }
 
 .others{
-    padding: 70px 10px;
+    padding: 70px 1px;
     background-color: violet;
 }
 
